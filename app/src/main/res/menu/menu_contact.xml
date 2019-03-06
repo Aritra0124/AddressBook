@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mnu_add"
+        android:title="@string/menu_add"
+        android:orderInCategory="1"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/mnu_abt"
+        android:title="@string/menu_about"
+        android:orderInCategory="2"
+        app:showAsAction="collapseActionView"/>
+    <item
+        android:id="@+id/mnu_exit"
+        android:title="@string/menu_about"
+        android:orderInCategory="3"
+        app:showAsAction="collapseActionView"/>
+
+
+</menu>

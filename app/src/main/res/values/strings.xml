@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="menu_add">Add Contact</string>
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+
+</resources>
